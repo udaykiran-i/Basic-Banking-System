@@ -16,8 +16,8 @@ body
 	color: black;
 }
 .nav-link:hover{
-    background-color:black;
-	color: white
+    background-color:white;
+	color: black;
 }
 .nav-link {
 	font-family:sans-serif;
@@ -41,7 +41,7 @@ navbar-brand img
 }
 .navbar-nav li a
 {
-color:#fff !important;
+color:black !important;
 
 }
 .bg-dark {
